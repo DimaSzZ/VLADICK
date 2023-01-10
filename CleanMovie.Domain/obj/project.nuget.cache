@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "loGLpp8Fqr5aepz4MDtGNM8vM8nBUn/ahIKhk63GDqfxHQc9Tr9nKezsrl3U24/ydSQgw9ViMB6whaYZG0OcMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\komuk\\RiderProjects\\CleanMovieDomain1\\CleanMovie.Domain\\CleanMovie.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\komuk\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\komuk\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

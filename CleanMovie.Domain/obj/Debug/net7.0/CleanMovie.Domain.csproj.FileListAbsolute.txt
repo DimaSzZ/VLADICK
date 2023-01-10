@@ -1,0 +1,12 @@
+C:\Users\komuk\RiderProjects\CleanMovieDomain1\CleanMovie.Domain\bin\Debug\net7.0\CleanMovie.Domain.deps.json
+C:\Users\komuk\RiderProjects\CleanMovieDomain1\CleanMovie.Domain\bin\Debug\net7.0\CleanMovie.Domain.dll
+C:\Users\komuk\RiderProjects\CleanMovieDomain1\CleanMovie.Domain\bin\Debug\net7.0\CleanMovie.Domain.pdb
+C:\Users\komuk\RiderProjects\CleanMovieDomain1\CleanMovie.Domain\obj\Debug\net7.0\CleanMovie.Domain.csproj.AssemblyReference.cache
+C:\Users\komuk\RiderProjects\CleanMovieDomain1\CleanMovie.Domain\obj\Debug\net7.0\CleanMovie.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\komuk\RiderProjects\CleanMovieDomain1\CleanMovie.Domain\obj\Debug\net7.0\CleanMovie.Domain.AssemblyInfoInputs.cache
+C:\Users\komuk\RiderProjects\CleanMovieDomain1\CleanMovie.Domain\obj\Debug\net7.0\CleanMovie.Domain.AssemblyInfo.cs
+C:\Users\komuk\RiderProjects\CleanMovieDomain1\CleanMovie.Domain\obj\Debug\net7.0\CleanMovie.Domain.csproj.CoreCompileInputs.cache
+C:\Users\komuk\RiderProjects\CleanMovieDomain1\CleanMovie.Domain\obj\Debug\net7.0\CleanMovie.Domain.dll
+C:\Users\komuk\RiderProjects\CleanMovieDomain1\CleanMovie.Domain\obj\Debug\net7.0\refint\CleanMovie.Domain.dll
+C:\Users\komuk\RiderProjects\CleanMovieDomain1\CleanMovie.Domain\obj\Debug\net7.0\CleanMovie.Domain.pdb
+C:\Users\komuk\RiderProjects\CleanMovieDomain1\CleanMovie.Domain\obj\Debug\net7.0\ref\CleanMovie.Domain.dll

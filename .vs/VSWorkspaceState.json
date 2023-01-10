@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\CleanMovie.API",
+    "\\CleanMovie.Application",
+    "\\CleanMovie.Domain",
+    "\\CleanMovie.Infrastructure"
+  ],
+  "SelectedNode": "\\CleanMovie.Infrastructure\\MovieDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
